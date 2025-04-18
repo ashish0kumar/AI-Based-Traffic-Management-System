@@ -45,4 +45,5 @@ npm start
 ```
 
 Upload Traffic Videos: <br/>
-Use the web interface to upload 4 traffic videos. The system will process the videos and display optimized green light times based on the analysis.
+Use the web interface to upload 4 traffic videos. The system will process the videos and display optimized green light times based on the analysis. <br>
+If you don’t have access to traffic intersection footage, you can use the 4 example videos available in the `backend/uploads/` folder.
